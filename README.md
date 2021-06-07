@@ -1,5 +1,4 @@
-# A Vanilla JavaScript Todo Application
-A Todo list app demonstrating vanilla JS concepts
+# A Vanilla JS Todo Application
 
 ## Development
 To develop locally

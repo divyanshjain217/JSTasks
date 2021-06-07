@@ -1,0 +1,38 @@
+body {
+    background: #28282B;
+}
+
+.container {
+    max-width: 400px;
+}
+
+input[type=text],
+input[type=text]:focus {
+    color: #fff;
+    border: none;
+    background: rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+}
+
+.todos li {
+    background: #36454F;
+    margin: 10px 0;
+}
+
+.todos li:hover {
+    transform: translateY(-5px);
+    transition-duration: .5s;
+
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.filtered {
+    display: none !important;
+}
+
+.btn{
+    background-color: #1B1212;;
+}
